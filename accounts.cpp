@@ -16,7 +16,7 @@ void Account::createAccount(){
     cout<<"Set Password:";
     string pwd;
     cin>>pwd;
-    strcpy
+    strcpy()
 
 
 
